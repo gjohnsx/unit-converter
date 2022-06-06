@@ -11,6 +11,7 @@ main {
     width: 550px;
     margin: 100px auto;
     border-radius: 25px;
+    overflow: hidden;
     box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.6);
 }
 
